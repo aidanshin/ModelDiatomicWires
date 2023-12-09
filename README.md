@@ -10,6 +10,7 @@ The goal was to mathematically model the scenarios to calculate the resonant fre
 
 Information: 
 [Experiment Report](https://aidanshin.github.io/ModelDiatomicWires/Lab5WriteUp.html)
+
 Python Files: 
 - matrices.py: This is the code for modeling the situations using matrices and calculating the resonant frequencies.
 - diatomicWireMAINCODE.py: This is the code for filtering the data collected, finding the resonant frequencies, plotting the data to a general fit, and comparing the different models.
